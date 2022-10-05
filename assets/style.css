@@ -35,14 +35,8 @@ p {
   }
 
   .card {
-<<<<<<< HEAD
     width: %;
     margin: 40px auto;
     border: 5px solid gray;
-=======
-    width: 80%;
-    margin: 40px auto;
-    border: 5px solid rgb(218, 86, 86);
->>>>>>> 2a60dab5b0d4f235e398905adaa383ff38a55bfb
     box-shadow: 5px 10px #888888;
   }
